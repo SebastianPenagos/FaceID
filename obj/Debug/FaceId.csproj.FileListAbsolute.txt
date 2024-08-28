@@ -1,0 +1,11 @@
+C:\Users\raibo\source\repos\FaceId\bin\Debug\FaceId.exe.config
+C:\Users\raibo\source\repos\FaceId\bin\Debug\FaceId.exe
+C:\Users\raibo\source\repos\FaceId\bin\Debug\FaceId.pdb
+C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.csproj.AssemblyReference.cache
+C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.Form1.resources
+C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.Properties.Resources.resources
+C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.csproj.GenerateResource.cache
+C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.csproj.CoreCompileInputs.cache
+C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.exe
+C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.pdb
+C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.Registrar.resources
