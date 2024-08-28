@@ -26,7 +26,7 @@ namespace FaceId
                 return;
             }
 
-            if (txtNombreUsuario == nombreUsuario && contraseña == "contraseña")
+            if (txtNombreUsuario == dasdasd && contraseña == "contraseña")
             {
                 MessageBox.Show("Inicio de sesión exitoso.", "Bienvenido", MessageBoxButtons.OK,
                     MessageBoxIcon.Information); 
