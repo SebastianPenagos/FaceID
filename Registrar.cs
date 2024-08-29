@@ -12,6 +12,7 @@ namespace FaceId
 {
     public partial class Registrar : Form
     {
+
         public Registrar()
         {
             InitializeComponent();
@@ -29,7 +30,22 @@ namespace FaceId
             string contraseña = txtContraseña.Text;
 
 
+
+            Usuario usuario = new Usuario
+            {
+                Cedula = cedula,
+            };
+
+
+            DatosMostrados.Show();
+
             MessageBox.Show("¡Registro exitoso!", "Registro", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+        }
+
+        private void txtApellidos_TextChanged(object sender, EventArgs e)
+        {
+
         }
     }
 }

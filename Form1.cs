@@ -15,26 +15,25 @@ namespace FaceId
         public Form1()
         {
             InitializeComponent();
+            CenterToScreen();
         }
 
-        private void BtnIniciarSesion(object sender, EventArgs e)
+        private void txtNombreUsuario_TextChanged(object sender, EventArgs e)
         {
-            if (string.IsNullOrEmpty("txtNombreUsuario") || string.IsNullOrEmpty(contraseña))
+
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            if (string.IsNullOrEmpty(txtNombreUsuario.Text) || string.IsNullOrEmpty(txtContraseña.Text))
             {
                 MessageBox.Show("Por favor, complete todos los campos.", "Error", MessageBoxButtons.OK,
                     MessageBoxIcon.Error);
                 return;
             }
-
-            if (txtNombreUsuario == dasdasd && contraseña == "contraseña")
-            {
-                MessageBox.Show("Inicio de sesión exitoso.", "Bienvenido", MessageBoxButtons.OK,
-                    MessageBoxIcon.Information); 
-            }
             else
             {
-                MessageBox.Show("Nombre de usuario o contraseña incorrectos.", "Error", MessageBoxButtons.OK,
-                    MessageBoxIcon.Error);
+
             }
         }
     }

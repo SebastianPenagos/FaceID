@@ -12,9 +12,16 @@ namespace FaceId
 {
     public partial class DatosMostrados : Form
     {
-        public DatosMostrados()
+        private string _cedula;
+        public DatosMostrados(string cedula)
         {
             InitializeComponent();
+            _cedula = cedula;
+        }
+
+        private void DatosMostrados_Load(object sender, EventArgs e)
+        {
+            txtcedula.Text = _cedula;
         }
     }
 }

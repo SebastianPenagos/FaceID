@@ -89,6 +89,7 @@
             this.txtApellidos.Name = "txtApellidos";
             this.txtApellidos.Size = new System.Drawing.Size(151, 20);
             this.txtApellidos.TabIndex = 5;
+            this.txtApellidos.TextChanged += new System.EventHandler(this.txtApellidos_TextChanged);
             // 
             // lblEdad
             // 

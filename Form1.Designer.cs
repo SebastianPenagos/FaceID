@@ -26,7 +26,7 @@
             this.txtNombreUsuario = new System.Windows.Forms.TextBox();
             this.lblContraseña = new System.Windows.Forms.Label();
             this.txtContraseña = new System.Windows.Forms.TextBox();
-            this.btnIniciarSesions = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblNombreUsuario
@@ -44,6 +44,7 @@
             this.txtNombreUsuario.Name = "txtNombreUsuario";
             this.txtNombreUsuario.Size = new System.Drawing.Size(200, 20);
             this.txtNombreUsuario.TabIndex = 1;
+            this.txtNombreUsuario.TextChanged += new System.EventHandler(this.txtNombreUsuario_TextChanged);
             // 
             // lblContraseña
             // 
@@ -62,22 +63,22 @@
             this.txtContraseña.Size = new System.Drawing.Size(200, 20);
             this.txtContraseña.TabIndex = 3;
             // 
-            // btnIniciarSesions
+            // button1
             // 
-            this.btnIniciarSesions.Location = new System.Drawing.Point(150, 110);
-            this.btnIniciarSesions.Name = "btnIniciarSesions";
-            this.btnIniciarSesions.Size = new System.Drawing.Size(100, 23);
-            this.btnIniciarSesions.TabIndex = 4;
-            this.btnIniciarSesions.Text = "Iniciar Sesión";
-            this.btnIniciarSesions.UseVisualStyleBackColor = true;
-            this.btnIniciarSesions.Click += new System.EventHandler(this.BtnIniciarSesion);
+            this.button1.Location = new System.Drawing.Point(274, 113);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 4;
+            this.button1.Text = "button1";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
             // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(384, 161);
-            this.Controls.Add(this.btnIniciarSesions);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.txtContraseña);
             this.Controls.Add(this.lblContraseña);
             this.Controls.Add(this.txtNombreUsuario);
@@ -93,7 +94,7 @@
         private System.Windows.Forms.TextBox txtNombreUsuario;
         private System.Windows.Forms.Label lblContraseña;
         private System.Windows.Forms.TextBox txtContraseña;
-        private System.Windows.Forms.Button btnIniciarSesions;
+        private System.Windows.Forms.Button button1;
     }
 }
 
