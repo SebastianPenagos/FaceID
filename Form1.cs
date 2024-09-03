@@ -33,8 +33,16 @@ namespace FaceId
             }
             else
             {
-
+                MessageBox.Show("Sesion ingresada.", "", MessageBoxButtons.OK);
+                return;
             }
+        }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            Hide();
+            Registrar regForm1 = new Registrar();
+            regForm1.ShowDialog(this);
         }
     }
 }

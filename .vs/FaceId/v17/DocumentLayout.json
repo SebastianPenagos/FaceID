@@ -3,32 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\raibo\\source\\repos\\FaceId\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|C:\\Users\\raibo\\source\\repos\\FaceId\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|solutionrelative:form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|c:\\users\\raibo\\source\\repos\\faceid\\datosmostrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|solutionrelative:datosmostrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|C:\\Users\\raibo\\source\\repos\\FaceId\\datosmostrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|solutionrelative:datosmostrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|C:\\Users\\raibo\\source\\repos\\FaceId\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|solutionrelative:registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|C:\\Users\\raibo\\source\\repos\\FaceId\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|C:\\Users\\raibo\\source\\repos\\FaceId\\registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|solutionrelative:registrar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|c:\\users\\raibo\\source\\repos\\faceid\\datosmostrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|solutionrelative:datosmostrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|C:\\Users\\raibo\\source\\repos\\FaceId\\cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|solutionrelative:cuenta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|c:\\users\\raibo\\source\\repos\\faceid\\datosmostrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|solutionrelative:datosmostrados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|c:\\users\\raibo\\source\\repos\\faceid\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|C:\\Users\\raibo\\source\\repos\\FaceId\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|C:\\Users\\raibo\\source\\repos\\FaceId\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
-      "RelativeMoniker": "D:0:0:{054158F4-935C-4103-8AB4-A1A93D9DE04C}|FaceId.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
   ],
   "DocumentGroupContainers": [
@@ -41,6 +41,19 @@
           "SelectedChildIndex": 6,
           "Children": [
             {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\raibo\\source\\repos\\FaceId\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\raibo\\source\\repos\\FaceId\\Form1.cs",
+              "RelativeToolTip": "Form1.cs",
+              "ViewState": "AQIAABoAAAAAAAAAAAAIwCwAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:12:53.759Z",
+              "IsPinned": true
+            },
+            {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
@@ -50,7 +63,42 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Cuenta.cs",
+              "DocumentMoniker": "C:\\Users\\raibo\\source\\repos\\FaceId\\Cuenta.cs",
+              "RelativeDocumentMoniker": "Cuenta.cs",
+              "ToolTip": "C:\\Users\\raibo\\source\\repos\\FaceId\\Cuenta.cs",
+              "RelativeToolTip": "Cuenta.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-03T03:30:32.811Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 4,
+              "Title": "Registrar.cs",
+              "DocumentMoniker": "C:\\Users\\raibo\\source\\repos\\FaceId\\Registrar.cs",
+              "RelativeDocumentMoniker": "Registrar.cs",
+              "ToolTip": "C:\\Users\\raibo\\source\\repos\\FaceId\\Registrar.cs",
+              "RelativeToolTip": "Registrar.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAIAwwB0AAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:43:03.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Registrar.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\raibo\\source\\repos\\FaceId\\Registrar.cs",
+              "RelativeDocumentMoniker": "Registrar.cs",
+              "ToolTip": "C:\\Users\\raibo\\source\\repos\\FaceId\\Registrar.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Registrar.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-28T02:01:45.044Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "DatosMostrados.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\raibo\\source\\repos\\FaceId\\DatosMostrados.cs",
               "RelativeDocumentMoniker": "DatosMostrados.cs",
@@ -62,79 +110,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
               "Title": "DatosMostrados.cs",
               "DocumentMoniker": "C:\\Users\\raibo\\source\\repos\\FaceId\\DatosMostrados.cs",
               "RelativeDocumentMoniker": "DatosMostrados.cs",
               "ToolTip": "C:\\Users\\raibo\\source\\repos\\FaceId\\DatosMostrados.cs",
               "RelativeToolTip": "DatosMostrados.cs",
-              "ViewState": "AQIAAAIAAAAAAAAAAAAewBsAAAAAAAAA",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAowB4AAAAyAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-29T00:57:45.944Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-29T00:57:45.944Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Registrar.cs",
-              "DocumentMoniker": "C:\\Users\\raibo\\source\\repos\\FaceId\\Registrar.cs",
-              "RelativeDocumentMoniker": "Registrar.cs",
-              "ToolTip": "C:\\Users\\raibo\\source\\repos\\FaceId\\Registrar.cs",
-              "RelativeToolTip": "Registrar.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAAgAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:43:03.536Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Registrar.cs [Dise\u00F1o]",
-              "DocumentMoniker": "C:\\Users\\raibo\\source\\repos\\FaceId\\Registrar.cs",
-              "RelativeDocumentMoniker": "Registrar.cs",
-              "ToolTip": "C:\\Users\\raibo\\source\\repos\\FaceId\\Registrar.cs [Dise\u00F1o]",
-              "RelativeToolTip": "Registrar.cs [Dise\u00F1o]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:01:45.044Z",
-              "EditorCaption": " [Dise\u00F1o]"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.Designer.cs",
-              "DocumentMoniker": "C:\\Users\\raibo\\source\\repos\\FaceId\\Form1.Designer.cs",
-              "RelativeDocumentMoniker": "Form1.Designer.cs",
-              "ToolTip": "C:\\Users\\raibo\\source\\repos\\FaceId\\Form1.Designer.cs",
-              "RelativeToolTip": "Form1.Designer.cs",
-              "ViewState": "AQIAADsAAAAAAAAAAAAAAEYAAAAmAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:14:19.314Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Form1.cs",
-              "DocumentMoniker": "C:\\Users\\raibo\\source\\repos\\FaceId\\Form1.cs",
-              "RelativeDocumentMoniker": "Form1.cs",
-              "ToolTip": "C:\\Users\\raibo\\source\\repos\\FaceId\\Form1.cs",
-              "RelativeToolTip": "Form1.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAAABEAAAAdAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T02:12:53.759Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\raibo\\source\\repos\\FaceId\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
               "ToolTip": "C:\\Users\\raibo\\source\\repos\\FaceId\\Form1.cs [Dise\u00F1o]",
               "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-28T01:50:02.748Z",
-              "EditorCaption": " [Dise\u00F1o]"
+              "WhenOpened": "2024-08-28T01:50:02.748Z"
             }
           ]
         }

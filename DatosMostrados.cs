@@ -21,7 +21,14 @@ namespace FaceId
 
         private void DatosMostrados_Load(object sender, EventArgs e)
         {
-            txtcedula.Text = _cedula;
+            
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Hide();
+            DatosPersonales subirDatosPersonales = new DatosPersonales();
+            subirDatosPersonales.ShowDialog(this);
         }
     }
 }

@@ -9,3 +9,5 @@ C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.csproj.CoreCompileInputs.cac
 C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.exe
 C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.pdb
 C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.Registrar.resources
+C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.DatosMostrados.resources
+C:\Users\raibo\source\repos\FaceId\obj\Debug\FaceId.DatosPersonales.resources

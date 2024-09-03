@@ -16,36 +16,39 @@ namespace FaceId
         public Registrar()
         {
             InitializeComponent();
+            CenterToScreen();
         }
 
         private void Registrar_Load(object sender, EventArgs e)
         {
-            string cedula = txtCedula.Text;
-            string nombres = txtNombres.Text;
-            string apellidos = txtApellidos.Text;
-            int edad = int.Parse(txtEdad.Text);
-            string nacionalidad = txtNacionalidad.Text;
-            string nombreUsuario = txtNombreUsuario.Text;
-            string correoElectronico = txtCorreoElectronico.Text;
-            string contraseña = txtContraseña.Text;
 
+            DatosMostrados fMostrados = new DatosMostrados(txtCedula.Text);
 
+            fMostrados.label8.Text = txtCedula.Text;
+            fMostrados.label7.Text = txtNombres.Text;
+            fMostrados.label6.Text = txtApellidos.Text;
+            fMostrados.label5 = Convert.ToInt32(txtEdad.Text);
+            fMostrados.label4.Text = txtNacionalidad.Text;
+            fMostrados.label3.Text = txtNombreUsuario.Text;
+            fMostrados.label2.Text = txtCorreoElectronico.Text;
+            fMostrados.label1.Text = txtContraseña.Text;
 
-            Usuario usuario = new Usuario
-            {
-                Cedula = cedula,
-            };
+           
+            fMostrados.Show(this);
 
-
-            DatosMostrados.Show();
-
-            MessageBox.Show("¡Registro exitoso!", "Registro", MessageBoxButtons.OK, MessageBoxIcon.Information);
 
         }
 
         private void txtApellidos_TextChanged(object sender, EventArgs e)
         {
 
+        }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            Hide();
+            Form1 iniForm1 = new Form1();
+            iniForm1.ShowDialog();
         }
     }
 }

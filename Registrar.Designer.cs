@@ -40,6 +40,7 @@
             this.lblContraseña = new System.Windows.Forms.Label();
             this.txtContraseña = new System.Windows.Forms.TextBox();
             this.btnRegistrar = new System.Windows.Forms.Button();
+            this.button1 = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
             // lblCedula
@@ -182,11 +183,22 @@
             this.btnRegistrar.UseVisualStyleBackColor = true;
             this.btnRegistrar.Click += new System.EventHandler(this.Registrar_Load);
             // 
+            // button1
+            // 
+            this.button1.Location = new System.Drawing.Point(27, 276);
+            this.button1.Name = "button1";
+            this.button1.Size = new System.Drawing.Size(75, 23);
+            this.button1.TabIndex = 17;
+            this.button1.Text = "Regresar";
+            this.button1.UseVisualStyleBackColor = true;
+            this.button1.Click += new System.EventHandler(this.button1_Click);
+            // 
             // Registrar
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(335, 311);
+            this.Controls.Add(this.button1);
             this.Controls.Add(this.btnRegistrar);
             this.Controls.Add(this.txtContraseña);
             this.Controls.Add(this.lblContraseña);
@@ -229,5 +241,6 @@
         private System.Windows.Forms.Label lblContraseña;
         private System.Windows.Forms.TextBox txtContraseña;
         private System.Windows.Forms.Button btnRegistrar;
+        private System.Windows.Forms.Button button1;
     }
 }
